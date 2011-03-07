@@ -1,0 +1,77 @@
+#工行网银测试结果
+
+= 摘要 =
+== 个人网银 ==
+  *  登录入口: https://mybank.icbc.com.cn/icbc/enperbank/index.jsp
+  *  在Wine Microsoft IE6 下可以正常登录,可以查询账户,但不能使用捷德u盾 .
+  *  在Wine builtin IE 下仍不能正常登录.`
+
+= 控件列表 =
+  # safeEdit1
+  下载地址: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
+{{{
+<object
+        id="safeEdit1" classid="CLSID:73E4740C-08EB-4133-896B-8D0A7C9EE3CD" 
+        codebase="/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13" 
+        width="145" height="21"
+        onkeyup="getfocus1(&quot;KeyPart&quot;)">
+</object>
+}}}
+ 
+  # KeyPart
+  下载地址: 同上
+{{{
+<object 
+        id="KeyPart" classid="CLSID:73E4740C-08EB-4133-896B-8D0A7C9EE3CD"
+        codebase="/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13"       
+        width="40" height="28" 
+        onkeyup="if(window.event.keyCode==13) mySubmit();">
+</object>
+}}}
+
+
+
+= 配置过程 =
+
+  # 安装mfc42
+{{{
+$ winetricks -q mfc42
+}}}
+  # 复制scarddlg.dll
+{{{
+$ cp scarddlg.dll ~/.wine/drive_c/windows/system32
+}}}
+  # 安装安全控件
+{{{
+$ cabextract AxSafeControls.cab
+$ regsvr32 AxSafeControls.dll
+}}}
+= bug 列表 =
+
+  * === 安装安全控件需要 scarddlg.dll , Wine 尚未实现这个dll . ===
+  仅需要一个空的dll就可以骗过安装程序. 
+
+  http://bugs.winehq.org/show_bug.cgi?id=26026
+
+  状态: 未修复
+
+  Workround: 复制scarddlg.dll到system32文件夹
+
+  * === wine buitin IE 打开工行登录页面会崩溃 ===
+  http://bugs.winehq.org/show_bug.cgi?id=25999
+
+  状态: 已经提交补丁,等待官方收录
+
+  * === 无法显示工行登录页面的控件, 原因是wine buitin IE 不支持大写的CLSID ===
+  http://bugs.winehq.org/show_bug.cgi?id=26000
+
+  状态: 将在下一版本的wine-gecko中修复
+
+  Workround: 暂无
+
+  * === 无法使用u盾 ===
+  http://bugs.winehq.org/show_bug.cgi?id=25820
+
+  状态: 未修复, 等待 wine1.4支持Windows原生USB驱动
+
+  Workround: 暂无

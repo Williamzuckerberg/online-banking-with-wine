@@ -2,10 +2,10 @@
 
 = 待测试网银列表 =
 
-主要包括国内使用了ActiveX控件的网银列表
-参见: 
-http://www.openbanks.info/
-http://home.alipay.com/bank/partner.htm
+  主要包括国内使用了ActiveX控件的网银列表
+  * 参见: 
+  * http://www.openbanks.info/
+  * http://home.alipay.com/bank/partner.htm
 
 = 工商银行 =
 

@@ -61,7 +61,7 @@ $ cp scarddlg.dll ~/.wine/drive_c/windows/system32
 $ cabextract AxSafeControls.cab
 $ regsvr32 AxSafeControls.dll
 }}}
-= bug 列表 =
+= BUG 列表 =
 
   * === 安装安全控件需要 scarddlg.dll , Wine 尚未实现这个dll . ===
   仅需要一个空的dll就可以骗过安装程序. 

@@ -136,7 +136,7 @@ wine的dll中,有一些是不能用native替换的,因为wine的底层dll和ms w
 {{{
 regsvr32 some.dll
 }}}
-常见的例子是网银的ActiveX控件,这些控件一般以*.cab形式的文件存放在网上,
+常见的例子是网银的ActiveX控件,这些控件一般是以 .cab为扩展名,
 
 可以用 cabextract 解压 .cab文件, 再用 regsvr32 注册解压得到的dll文件.
 

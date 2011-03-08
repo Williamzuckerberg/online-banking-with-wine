@@ -16,7 +16,7 @@
     * [投诉]
       * [待添加]
   * [技术资料] 
-    * [http://goo.gl/WRkAr Wine使用入门]
+    * [WineUserGuide Wine使用入门]
       * [待添加]
     * [wine-gecko编译与安装]
     * [Wine的USB支持]

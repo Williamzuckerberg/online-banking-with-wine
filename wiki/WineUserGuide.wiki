@@ -1,12 +1,12 @@
 #labels Featured
 待编辑
 
-1. wine的安装
+== wine的安装 ==
 
-1.1 二进制包安装
+=== 二进制包安装 ===
 大部分发行版的软件仓库都有wine的二进制包,
 以Ubuntu为例,可以用
-sudo apt-get install wine来安装.
+`sudo apt-get install wine` 来安装.
 但是wine的发展很快,软件仓库中的不是最新版本,建议使用ppa中的版本:
 用下面一行命令可以安装ppa版本的最新的wine1.3
 $ sudo add-apt-repository ppa:ubuntu-wine/ppa ; sudo apt-get update ;

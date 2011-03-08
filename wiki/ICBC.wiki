@@ -53,7 +53,7 @@
 {{{
 $ winetricks -q mfc42
 }}}
-  # 复制scarddlg.dll
+  # 复制[http://goo.gl/1rgdT scarddlg.dll]
 {{{
 $ cp scarddlg.dll ~/.wine/drive_c/windows/system32
 }}}

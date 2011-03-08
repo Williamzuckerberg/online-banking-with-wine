@@ -106,13 +106,16 @@ http://wiki.jswindle.com/index.php/Wine_Prefixes
 
 参见: http://wiki.winehq.org/winetricks
 
-== Wine builtin dll(内置dll)和native dll(原生dll) 简介
+== Wine builtin dll(内置dll)和native dll(原生dll) 简介 ==
 builtin是指wine项目重新实现的开源的dll,
 native是指从Microsoft Windows上拷贝的商业版本的dll
 
 在使用wine运行程序时,遇到的最多的问题就是某个builtin dll不管用,一般情况下,
+
 直接复制native dll到 windows/system32 文件夹是没有用的,需要在winecfg(图形界面)
+
 里设置指定要用native还是用builtin,或者使用 WINEDLLOVERRIDES 环境变量,
+
 例如,
 {{{
 $ WINEDLLOVERRIDES="comdlg32,shell32=n,b" wine AppName.exe

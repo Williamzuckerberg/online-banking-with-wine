@@ -12,14 +12,14 @@
 == 企业网上银行普及版 ==
   *  登录入口： https://corporbank-simp.icbc.com.cn/icbc/normalbank/index.jsp
   *  *不建议使用任何未经工行官方测试的浏览器和操作系统*
-  *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac,若有需要请向工行 [投诉或提议 #投诉渠道] 。*
+  *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac,若有需要请向工行 [#投诉渠道 投诉或提议] 。*
 
 == 企业网上银行 ==
   *  登录入口： https://corporbank.icbc.com.cn/
   *  *不建议使用任何未经工行官方测试的浏览器和操作系统*
   *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac,若有需要请向工行投诉或提议。*
 
-[1 #test]
+[#test 1]
 
 == test ==
 

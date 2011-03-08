@@ -21,24 +21,6 @@
 
 
 
-== 投诉渠道 ==
-  *  在线投诉
-  [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E4%B8%AA%E4%BA%BA%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 个人客户投诉登记表]
-
- [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 单位客户投诉登记表]
-
-  *  电话服务
-
-　　 24小时全国电话服务热线：95588
-
-　　 24小时贵宾服务专线：400-66-95588（面向财富卡、理财金卡、白金卡及信用卡金卡客
-户，目前已在除上海、浙江和广东以外的全国各地区开通）
-
-  *  短信客服
-
-　　　 发送手机短信“LTK+咨询内容”至95588
-
-
 = 控件列表 =
   # safeEdit1
   下载地址: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
@@ -108,3 +90,26 @@ $ regsvr32 AxSafeControls.dll
   状态: 未修复, 等待 wine1.4支持Windows原生USB驱动
 
   Workround: 暂无
+
+
+
+
+== 投诉渠道 ==
+
+* 任何第三方测试结果都无法保证绝对可靠，也无法对任何意外负责，每一个需要在Linux或Mac平台上使用网银的用户都应该亲自向银行投诉，争取银行的官方支持。 *
+
+  *  在线投诉
+  [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E4%B8%AA%E4%BA%BA%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 个人客户投诉登记表]
+
+ [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 单位客户投诉登记表]
+
+  *  电话服务
+
+　　 24小时全国电话服务热线：95588
+
+　　 24小时贵宾服务专线：400-66-95588（面向财富卡、理财金卡、白金卡及信用卡金卡客
+户，目前已在除上海、浙江和广东以外的全国各地区开通）
+
+  *  短信客服
+
+　　　 发送手机短信“LTK+咨询内容”至95588

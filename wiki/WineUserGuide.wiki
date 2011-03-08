@@ -140,7 +140,7 @@ regsvr32 some.dll
 可以用 cabextract 解压 .cab文件, 再用 regsvr32 注册解压得到的dll文件.
 
 
-=== wine的buitin dll目前实现进度: ===
+=== Wine的buitin dll目前实现进度: ===
 参见:
 
 http://source.winehq.org/WineAPI/
@@ -152,6 +152,6 @@ http://www.winehq.org/winapi_stats
 仅供参考,有些信息过时了,只有git下载的代码才是最新的
 
 
-建议阅读wine官方的文档:
+建议阅读Wine官方的文档:
 
 http://wiki.winehq.org/Developers

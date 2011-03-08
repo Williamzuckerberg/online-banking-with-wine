@@ -1,5 +1,5 @@
 #labels Featured
-#sidebar WineUserGuide
+#sidebar sitemap
 = Wine的安装与使用 =
 
 == Wine的安装 ==

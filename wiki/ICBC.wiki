@@ -23,7 +23,7 @@
 
 
 = 控件列表 =
-  # safeEdit1
+  * safeEdit1
   下载地址: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{
 <object
@@ -34,7 +34,7 @@
 </object>
 }}}
  
-  # KeyPart 
+  * KeyPart 
   下载地址: 同上
 {{{
 <object 
@@ -95,7 +95,7 @@ $ regsvr32 AxSafeControls.dll
 
 
 
-== 投诉渠道 ==
+= 投诉渠道 =
 
 * 任何第三方测试结果都无法保证绝对可靠，也无法对任何意外负责，建议每一个需要在Linux或Mac平台上使用网银的用户都亲自向银行投诉，争取银行的官方支持。 *
 

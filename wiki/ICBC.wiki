@@ -12,26 +12,28 @@
 == 企业网上银行普及版 ==
   *  登录入口： https://corporbank-simp.icbc.com.cn/icbc/normalbank/index.jsp
   *  *不建议使用任何未经工行官方测试的浏览器和操作系统*
-  *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac
-,若有需要请向工行投诉或提议。*
+  *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac,若有需要请向工行投诉或提议。*
 
 == 企业网上银行 ==
   *  登录入口： https://corporbank.icbc.com.cn/
   *  *不建议使用任何未经工行官方测试的浏览器和操作系统*
-  *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac
-,若有需要请向工行投诉或提议。*
+  *  *Linux和Mac系统比Windows更安全，更适合企业应用，但工行网银尚不支持Linux和Mac,若有需要请向工行投诉或提议。*
 
 == 投诉渠道 ==
   *  在线投诉
-     个人客户投诉登记表http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E4%B8%AA%E4%BA%BA%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm
+  [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E4%B8%AA%E4%BA%BA%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 个人客户投诉登记表]
 
-     单位客户投诉登记表http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm
+ [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 单位客户投诉登记表]
 
   *  电话服务
+
 　　 24小时全国电话服务热线：95588
-　　 24小时贵宾服务专线：400-66-95588（面向财富卡、理财金卡、白金卡及信用卡金卡客户，目前已在除上海、浙江和广东以外的全国各地区开通）
+
+　　 24小时贵宾服务专线：400-66-95588（面向财富卡、理财金卡、白金卡及信用卡金卡客
+户，目前已在除上海、浙江和广东以外的全国各地区开通）
 
   *  短信客服
+
 　　　 发送手机短信“LTK+咨询内容”至95588
 
 

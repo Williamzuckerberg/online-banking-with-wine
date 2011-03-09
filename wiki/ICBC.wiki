@@ -23,7 +23,7 @@
 
 
 = 控件列表 =
-  * 密码输入框:safeEdit1
+  * === 密码输入框:safeEdit1 ===
   下载地址: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{
 <object
@@ -34,7 +34,7 @@
 </object>
 }}}
  
-  * 验证码输入框:KeyPart
+  * === 验证码输入框:KeyPart ===
   下载地址: 同上
 {{{
 <object 
@@ -103,7 +103,7 @@ $ regsvr32 AxSafeControls.dll
   *  在线投诉
   [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E4%B8%AA%E4%BA%BA%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 个人客户投诉登记表]
 
- [http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 单位客户投诉登记表]
+[http://www.icbc.com.cn/ICBC/%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89/%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E6%8A%95%E8%AF%89%E7%99%BB%E8%AE%B0%E8%A1%A8.htm 单位客户投诉登记表]
 
   *  电话服务
 

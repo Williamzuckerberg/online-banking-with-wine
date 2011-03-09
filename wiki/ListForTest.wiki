@@ -10,8 +10,8 @@
 
 = 工商银行 =
 
-==个人网银== 
+== 个人网银 *[http://code.google.com/p/online-banking-with-wine/wiki/ICBC 详情]* == 
   * 登录入口: https://mybank.icbc.com.cn/icbc/perbank/index.jsp
   * 控件下载地址:https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
   * 控件示例:http://code.google.com/p/online-banking-with-wine/downloads/detail?name=safeEdit1.html
-  * [http://code.google.com/p/online-banking-with-wine/wiki/ICBC 详情]
+  

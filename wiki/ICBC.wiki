@@ -23,7 +23,7 @@
 
 
 = 控件列表 =
-  * safeEdit1
+  * 密码输入框:safeEdit1
   下载地址: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{
 <object
@@ -34,7 +34,7 @@
 </object>
 }}}
  
-  * KeyPart
+  * 验证码输入框:KeyPart
   下载地址: 同上
 {{{
 <object 

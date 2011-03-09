@@ -22,7 +22,7 @@
     * [Wine的USB支持]
     * [为wine报告一个bug]
     * [wine的调试]
-  * [ListForTest  待测试列表] 
+  * [ListForTest  待测试网银列表] 
     * [ICBC 工商银行]
     * [招商银行]
     * [中信银行]

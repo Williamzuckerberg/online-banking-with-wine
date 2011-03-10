@@ -45,7 +45,14 @@
 </object>
 }}}
 
-
+  * === safeSubmit1 ===
+{{{
+<object 
+        id="safeSubmit1" classid="CLSID:8D9E0B29-563C-4226-86C1-5FF2AE77E1D2"
+        codebase="/icbc/newperbank/AxSafeControls.cab#version=1,0,0,7"
+        style="HEIGHT: 0px; WIDTH: 0px" viewastext="">
+</object>
+}}}
 
 = 配置过程 =
 

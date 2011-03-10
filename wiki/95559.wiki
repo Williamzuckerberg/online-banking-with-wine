@@ -46,8 +46,11 @@
 = BUG列表 =
 
   * 加载 safeInput1 段错误
+
   http://bugs.winehq.org/show_bug.cgi?id=26028
+
   状态: 未修复
+
   Workround: 暂无
 
 = 投诉渠道 =

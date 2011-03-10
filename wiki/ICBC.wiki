@@ -24,7 +24,7 @@
 
 = 控件列表 =
   * === 密码输入框:safeEdit1 ===
-  下载地址: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
+  URL: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{
 <object
         id="safeEdit1" classid="CLSID:73E4740C-08EB-4133-896B-8D0A7C9EE3CD" 
@@ -35,7 +35,7 @@
 }}}
  
   * === 验证码输入框:KeyPart ===
-  下载地址: 同上
+  URL: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{
 <object 
         id="KeyPart" classid="CLSID:73E4740C-08EB-4133-896B-8D0A7C9EE3CD"
@@ -46,6 +46,7 @@
 }}}
 
   * === safeSubmit1 ===
+  URL: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{
 <object 
         id="safeSubmit1" classid="CLSID:8D9E0B29-563C-4226-86C1-5FF2AE77E1D2"
@@ -55,6 +56,8 @@
 }}}
 
   * === objectForDetectPlugin ===
+  URL: https://mybank.icbc.com.cn/icbc/NetSign.dll
+
 {{{
 try{		
     document.all.safeSubmit1.reset();

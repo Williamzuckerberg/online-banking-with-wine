@@ -5,7 +5,7 @@
 
 == 个人网上银行 ==
   * 登录入口: https://pbank.95559.com.cn/personbank/common_logon.jsp
-  * 在Wine MSIE6 下 (可以显示出密码输入控件?), 暂无帐号可以测试
+  * 在Wine MSIE6 下 无法显示控件, 暂无帐号可以测试
   * 在Wine buitin IE 加载安全控件会发生段错误
 
 = 控件列表 =

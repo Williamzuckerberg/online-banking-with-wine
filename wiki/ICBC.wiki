@@ -54,6 +54,32 @@
 </object>
 }}}
 
+  * === objectForDetectPlugin ===
+{{{
+try{		
+    document.all.safeSubmit1.reset();
+}
+catch(Exception){
+    document.getElementById("axsafetip").innerHTML = "<table bgcolor=\"#ffffcc\" cellspacing=\"0\" cellpadding=\"0\"><td><font color=\"#FF6600\">如果无法输入密码，请根据ie弹出提示进行控件安装。</font></td></tr></table>"
+}
+
+function hasInstallNetSign12(){
+    var CLSID=""; 	
+    var pluginDiv = document.createElement("<div id=\"pluginDiv\" style=\"display:none\"></div>") 	
+    document.body.insertBefore(pluginDiv); 	
+    pluginDiv.innerHTML = '<object id="objectForDetectPlugin" classid="CLSID:'+ '62B938C4-4190-4F37-8CF0-A92B0A91CC77' +'"></object>'; 	
+    try {
+        if(eval("objectForDetectPlugin." + "base64Out") == undefined) {
+            pluginDiv.removeNode(true);//删除pluginDiv及其所有的子元素 		
+        }
+        else {				
+            pluginDiv.innerHTML = '<object id="objectForDetectPlugin" classid="CLSID:'+ '62B938C4-4190-4F37-8CF0-A92B0A91CC77' +'" codebase="/icbc/NetSign.dll#version=1,2,2,9"></object>'; 
+        } 	
+    } 	
+    catch(e){
+    } 
+}
+}}}
 = 配置过程 =
 
   # 安装mfc42

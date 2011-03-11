@@ -109,17 +109,28 @@ $ regsvr32 AxSafeControls.dll
 
   Workround: 复制scarddlg.dll到system32文件夹
 
-  * === Wine buitin IE 打开工行登录页面会崩溃 ===
+  * === Wine buitin IE 打开工行登录页面会崩溃(0字节网页) ===
   http://bugs.winehq.org/show_bug.cgi?id=25999
 
   状态: 已经提交补丁,等待官方收录
+
+  * === Wine buitin IE 打开工行登录页面会崩溃 ===
+  与上一个bug不同,这个暂时原因不明,尚在排查当中
+
+  状态: 排查中
 
   * === 无法显示工行登录页面的控件, 原因是Wine buitin IE 不支持大写的CLSID ===
   http://bugs.winehq.org/show_bug.cgi?id=26000
 
   状态: 将在下一版本的wine-gecko中修复
 
+    2011-3-11更新: [http://www.winehq.org/pipermail/wine-devel/2011-March/089187.html Wine Gecko 1.2.0 RC1] 已修复 
+
   Workround: 暂无
+
+  * === 无法显示图片验证码 ===
+
+  状态: 排查中
 
   * === 无法使用u盾 ===
   http://bugs.winehq.org/show_bug.cgi?id=25820

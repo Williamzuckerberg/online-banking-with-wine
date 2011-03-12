@@ -130,6 +130,13 @@ $ regsvr32 AxSafeControls.dll
   Workround: 暂无
 
   * === 无法显示图片验证码 ===
+{{{
+https://mybank.icbc.com.cn/servlet/com.icbc.inbs.person.servlet.Verifyimage2?randomKey=1299899662433135571&imageAlt=Refresh%20verification%20code
+}}}
+{{{
+
+<img src="/servlet/com.icbc.inbs.person.servlet.Verifyimage2?disFlag=2&randomKey=1299899662433135571" border="0" onclick="parent.refreshVerifyimage();return false;" style="CURSOR: hand" alt="Refresh verification code"/></div></html>
+}}}
 
   状态: 排查中
 

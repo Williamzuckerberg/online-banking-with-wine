@@ -11,10 +11,15 @@
 = 工商银行 =
 
 == 个人网银 *[http://code.google.com/p/online-banking-with-wine/wiki/ICBC 详情]* == 
-  * 登录入口: https://mybank.icbc.com.cn/icbc/perbank/index.jsp
-  * 控件下载地址:https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
-  * 控件示例:http://code.google.com/p/online-banking-with-wine/downloads/detail?name=safeEdit1.html
-  
+  *  登录入口: https://mybank.icbc.com.cn/icbc/enperbank/index.jsp
+  *  在Wine Microsoft IE6 下可以正常登录,可以查询账户,但不能使用捷德u盾 .
+  *  在Wine builtin IE 下仍不能正常登录.
+  *  测试中  
+
 = 交通银行 =
 
 == 个人网银 *[95559 详情] ==
+  * 登录入口: https://pbank.95559.com.cn/personbank/common_logon.jsp
+  * 在Wine MSIE6 下 无法显示控件, 暂无帐号可以测试
+  * 在Wine buitin IE 加载安全控件会发生段错误
+  * 暂无帐号,无法深入测试

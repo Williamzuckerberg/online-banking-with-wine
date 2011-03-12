@@ -151,7 +151,7 @@ alt="Refresh verification code"/>
 }}}
 
   状态: 排查中
-
+  http://bugs.winehq.org/show_bug.cgi?id=26392
   * === 无法使用u盾 ===
   http://bugs.winehq.org/show_bug.cgi?id=25820
 

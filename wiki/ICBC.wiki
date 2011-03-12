@@ -5,7 +5,7 @@
 == 个人网上银行 ==
   *  登录入口: https://mybank.icbc.com.cn/icbc/enperbank/index.jsp
   *  在Wine Microsoft IE6 下可以正常登录,可以查询账户,但不能使用捷德u盾 .
-  *  在Wine builtin IE 下仍不能正常登录.`
+  *  在Wine builtin IE 下仍不能正常登录.
 
 == 个人网上银行贵宾版 ==
   *  登录入口： https://vip.icbc.com.cn/icbc/enperbank/index.jsp

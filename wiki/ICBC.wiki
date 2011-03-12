@@ -122,6 +122,10 @@ $ regsvr32 AxSafeControls.dll
     
     2011-3-13更新:已查明,IE打开含有超过3个控件的页面会崩溃
 
+    2011-3-13更新2: 已修复
+
+  http://bugs.winehq.org/show_bug.cgi?id=26391
+
   * === 无法显示工行登录页面的控件, 原因是Wine buitin IE 不支持大写的CLSID ===
   http://bugs.winehq.org/show_bug.cgi?id=26000
 

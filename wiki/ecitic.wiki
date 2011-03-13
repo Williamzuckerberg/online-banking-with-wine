@@ -27,7 +27,7 @@
 }}}
  
   * === CNCBChecker ===
-  URL: https://
+  URL: https://e.bank.ecitic.com/perbank5/download/helpmate/HelpmateSetup.exe
 {{{
 <object 
         id="CNCBChecker" 

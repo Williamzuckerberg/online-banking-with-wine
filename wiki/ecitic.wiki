@@ -19,7 +19,7 @@
 
 = 控件列表 =
   * === GuardID ===
-  URL: https://
+  URL: https://e.bank.ecitic.com/perbank5/plugs/CNCBGuard.exe
 {{{
 <object
         id="GuardID" classid="clsid:1B06CC90-84FF-4A4C-83FC-1327A7C4A9A1">
@@ -36,7 +36,7 @@
 </object>
 }}}
 
-  * === [?] ===
+  * === EPCSP ===
   URL: https://
 {{{
 try {
@@ -53,8 +53,8 @@ try {
 		}	
 }}}
 
-  * === [?] ===
-  URL: https://
+  * === oEdit1,oEdit2,detecter,Init_Tool_FT,Init_Tool_GD,EPCSP ===
+  URL: https://e.bank.ecitic.com/perbank5/plugs/CNCBSecPkg.exe
 
 {{{
 function controlPwdDisplay( isDiplay ){

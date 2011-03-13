@@ -4,12 +4,12 @@
 == 个人网上银行 ==
   *  登录入口: 
   *  在Wine Microsoft IE6 下 
-  *  在Wine builtin IE 下 `
+  *  在Wine builtin IE 下 
 
 == 个人网上银行贵宾版 ==
   *  登录入口： 
   *  在Wine Microsoft IE6 下 
-  *  在Wine builtin IE 下 `
+  *  在Wine builtin IE 下 
 
 == 企业网上银行普及版 ==
   *  登录入口： 
@@ -17,7 +17,7 @@
   *  *Linux和Mac系统比Windows更安全，更适合企业应用，[网银]不支持Linux和Mac,若有需要请向 [网银] [投诉或建议] 。*
 
 == 企业网上银行 ==
-  *  登录入口： https://corporbank.icbc.com.cn/
+  *  登录入口： 
   *  *不建议使用任何未经工行官方测试的浏览器和操作系统*
   *  *Linux和Mac系统比Windows更安全，更适合企业应用，[网银]不支持Linux和Mac,若有需要请向 [网银] [投诉或建议] 。*
 

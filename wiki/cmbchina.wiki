@@ -31,7 +31,7 @@
 
 = 控件列表 =
   * === 密码输入框:[] ===
-  URL: https://
+  URL: https://site.cmbchina.com/download/CMBEdit.cab
 {{{
 <object
         id="DebitCardQueryPwd_Ctrl"

@@ -91,7 +91,7 @@ function controlPwdDisplay( isDiplay ){
 }}}
 = BUG 列表 =
 
-  * === [bug] ===
+  * === 当页面含有弹出窗口时,只显示弹出窗口,不显示原页面 ===
   http://bugs.winehq.org/show_bug.cgi?id=[]
 
   状态: 未修复

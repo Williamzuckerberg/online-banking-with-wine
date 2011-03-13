@@ -45,7 +45,7 @@
 
 = BUG列表 =
 
-  * 加载 safeInput1 段错误
+  * 加载 safeInput1, safeInput2, safeCommit1 都会发生段错误
 
   http://bugs.winehq.org/show_bug.cgi?id=26028
 

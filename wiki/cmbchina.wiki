@@ -33,40 +33,22 @@
   URL: https://
 {{{
 <object
- 
+        id="DebitCardQueryPwd_Ctrl"
+        classid="clsid:0CA54D3F-CEAE-48AF-9A2B-31909CB9515D"
+        codebase="https://site.cmbchina.com/download/CMBEdit.cab#version=1,2,0,1"
+        width="180px" height="20px"> 
 </object>
 }}}
  
-  * === 验证码输入框:[] ===
-  URL: https://
-{{{
-<object 
   
-</object>
-}}}
-
-  * === [?] ===
-  URL: https://
-{{{
-<object 
-  
-</object>
-}}}
-
-  * === [?] ===
-  URL: https://
-
-{{{
-
-}}}
 = 配置过程 =
 {{{
 
 }}}
 = BUG 列表 =
 
-  * === [bug] ===
-  http://bugs.winehq.org/show_bug.cgi?id=[]
+  * === 密码输入框无法显示 ===
+  http://bugs.winehq.org/show_bug.cgi?id=26027
 
   状态: 未修复
 

@@ -34,4 +34,5 @@
     * [njcb 南京银行]
     * [bjrcb 北京农村商业银行]
     * [bankofbeijing 北京银行]
+    * [boc 中国银行]
   * [参考资料]

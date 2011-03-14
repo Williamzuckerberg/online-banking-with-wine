@@ -1,7 +1,7 @@
 #labels Featured
 # 平安银行
 
-//动态创建ActiveX控件
+//无须activex控件,待测试
 
 = 摘要 =
 == 个人网上银行 ==

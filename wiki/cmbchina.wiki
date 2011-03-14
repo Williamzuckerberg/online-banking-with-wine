@@ -1,5 +1,5 @@
 #labels Featured
-# name of bank
+# 招商银行
 
 = 摘要 =
 == 个人银行大众版 ==

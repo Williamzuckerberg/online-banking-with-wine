@@ -43,6 +43,7 @@
 }}}
 
   * === DebitCardNo_Ctrl ===
+
 {{{
 <object 
         id="DebitCardNo_Ctrl" 
@@ -52,6 +53,7 @@
 }}}
 
   * === DebitCardQueryPwd_Ctrl ===
+
 {{{
 <object 
         id="DebitCardQueryPwd_Ctrl" 
@@ -62,6 +64,7 @@
 }}}
 
   * === IdNo_Ctrl ===
+
 {{{
 <object 
         id="IdNo_Ctrl" 
@@ -71,7 +74,8 @@
 </object>
 }}}
 
-  * === 密码输入框:[] ===
+  * === 密码输入框:DebitCardQueryPwd_Ctrl ===
+
   URL: https://site.cmbchina.com/download/CMBEdit.cab
 {{{
 <object
@@ -83,6 +87,7 @@
 }}}
 
   * === BookNo_Ctrl ===
+
 {{{
 <object 
         id="BookNo_Ctrl" 

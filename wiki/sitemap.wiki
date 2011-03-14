@@ -43,5 +43,6 @@
     * [96569 恒丰银行]
     * [czbank 浙商银行]
     * [pingan 平安银行]
+    * [bankofshanghai 上海银行]
 
   * [参考资料]

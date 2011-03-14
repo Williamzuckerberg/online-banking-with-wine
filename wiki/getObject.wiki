@@ -25,13 +25,13 @@ var AttrList=new Array(' id="',' name="',' classid="',' codebase="');
 ObjectCount=document.getElementsByTagName("object").length;
 for (i=0;i<ObjectCount;i++){
     ObjectHTML=document.getElementsByTagName("object")[0].outerHTML;
-    ObjectHTMLFormated=ObjectHTML;
+    ObjectHTMLformatted=ObjectHTML;
     for (j=0;j<4;j++){
-        ObjectHTMLFormated=ObjectHTMLFormated.replace(AttrList[j],"\n\t"+AttrList[j]);
+        ObjectHTMLformatted=ObjectHTMLformatted.replace(AttrList[j],"\n\t"+AttrList[j]);
     }
 
-    ObjectHTMLFormated=ObjectHTMLFormated.replace("</object>","\n</object>");
+    ObjectHTMLformatted=ObjectHTMLformatted.replace("</object>","\n</object>");
 
-    alert(ObjectHTMLFormated);
+    alert(ObjectHTMLformatted);
 }
 }}}

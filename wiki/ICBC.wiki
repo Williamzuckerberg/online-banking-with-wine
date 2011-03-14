@@ -23,6 +23,9 @@
 
 
 = 控件列表 =
+([getObject 如何获取控件?]) 
+
+
   * === 密码输入框:safeEdit1 ===
   URL: https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13
 {{{

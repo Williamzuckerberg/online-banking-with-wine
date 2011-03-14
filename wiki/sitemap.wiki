@@ -45,5 +45,6 @@
     * [pingan 平安银行]
     * [bankofshanghai 上海银行]
     * [hzbank 杭州银行]
+    * [hsbank 徽商银行]
 
   * [参考资料]

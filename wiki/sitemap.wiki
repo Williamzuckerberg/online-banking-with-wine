@@ -22,6 +22,7 @@
     * [Wine的USB支持]
     * [为wine报告一个bug]
     * [wine的调试]
+    * [getObject 获取网页中的ActiveX控件]
   * [ListForTest  待测试网银列表] 
     * [ICBC 工商银行]
     * [cmbchina 招商银行]

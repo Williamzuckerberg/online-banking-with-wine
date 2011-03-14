@@ -21,12 +21,17 @@ alert(document.getElementsByTagName("object")[0].outerHTML)
 
 取得控件并且对HTML进行格式化
 {{{
-ObjectCount=document.getElementsByTagName("object").length
-for (i=0;i<ObjectCount,i++){
+var AttrList=new Array(' id="',' name="',' classid="',' codebase="');
+ObjectCount=document.getElementsByTagName("object").length;
+for (i=0;i<ObjectCount;i++){
     ObjectHTML=document.getElementsByTagName("object")[0].outerHTML;
-    ObjectHTMLFormated=ObjectHTML.replace(" id=\"","\n\tid=\"");
-    ObjectHTMLFormated=ObjectHTMLFormated.replace(" name=\"","\n\tname=\"");
-    ObjectHTMLFormated=ObjectHTMLFormated.replace(" classid=\"","\n\tclassid=\"");    ObjectHTMLFormated=ObjectHTMLFormated.replace(" codebase=\"","\n\tcodebase=\"");    ObjectHTMLFormated=ObjectHTMLFormated.replace(" id=\"","\n\tid=\"");
+    ObjectHTMLFormated=ObjectHTML;
+    for (j=0;j<4;j++){
+        ObjectHTMLFormated=ObjectHTMLFormated.replace(AttrList[j],"\n\t"+AttrList[j]);
+    }
+
+    ObjectHTMLFormated=ObjectHTMLFormated.replace("</object>","\n</object>");
+
     alert(ObjectHTMLFormated);
 }
 }}}

@@ -19,6 +19,8 @@
 
 
 = 控件列表 =
+([getObject 如何获取控件?]) 
+
   * === GuardID ===
   URL: https://e.bank.ecitic.com/perbank5/plugs/CNCBGuard.exe
 {{{

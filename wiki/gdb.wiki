@@ -5,7 +5,7 @@
 == 个人网上银行 ==
   *  登录入口: https://ebanks.gdb.com.cn/sperbank/perbankLogin.jsp
   *  在Wine Microsoft IE6 下 
-  *  在Wine builtin IE 下 
+  *  在Wine builtin IE 下 可以正常显示输入控件,暂无帐号可以测试
 
 == 个人网上银行贵宾版 ==
   *  登录入口： 

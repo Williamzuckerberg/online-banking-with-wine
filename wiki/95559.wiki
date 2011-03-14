@@ -9,6 +9,8 @@
   * 在Wine buitin IE 加载安全控件会发生段错误
 
 = 控件列表 =
+([getObject 如何获取控件?]) 
+
   * === safeCommit1 ===
   URL: https://pbank.95559.com.cn/personbank/ocx/safe_bankcomm.cab#version=3,0,0,0
 {{{

@@ -30,6 +30,47 @@
 
 
 = 控件列表 =
+ 
+  * === NetBankUser_Ctrl ===
+
+{{{
+<object 
+        id="NetBankUser_Ctrl" 
+        classid="clsid:0CA54D3F-CEAE-48AF-9A2B-31909CB9515D"
+        codebase="https://site.cmbchina.com/download/CMBEdit.cab#version=1,2,0,1" 
+        width="100px" height="20px">
+</object>
+}}}
+
+  * === DebitCardNo_Ctrl ===
+{{{
+<object 
+        id="DebitCardNo_Ctrl" 
+        classid="clsid:0CA54D3F-CEAE-48AF-9A2B-31909CB9515D" 
+        codebase="https://site.cmbchina.com/download/CMBEdit.cab#version=1,2,0,1" 
+        width="160px" height="20px"></object>
+}}}
+
+  * === DebitCardQueryPwd_Ctrl ===
+{{{
+<object 
+        id="DebitCardQueryPwd_Ctrl" 
+        classid="clsid:0CA54D3F-CEAE-48AF-9A2B-31909CB9515D"         
+        codebase="https://site.cmbchina.com/download/CMBEdit.cab#version=1,2,0,1" 
+        width="100px" height="20px">
+</object>
+}}}
+
+  * === IdNo_Ctrl ===
+{{{
+<object 
+        id="IdNo_Ctrl" 
+        classid="clsid:0CA54D3F-CEAE-48AF-9A2B-31909CB9515D" 
+        codebase="https://site.cmbchina.com/download/CMBEdit.cab#version=1,2,0,1" 
+        width="160px" height="20px">
+</object>
+}}}
+
   * === 密码输入框:[] ===
   URL: https://site.cmbchina.com/download/CMBEdit.cab
 {{{
@@ -40,8 +81,18 @@
         width="180px" height="20px"> 
 </object>
 }}}
- 
-  
+
+  * === BookNo_Ctrl ===
+{{{
+<object 
+        id="BookNo_Ctrl" 
+        classid="clsid:0CA54D3F-CEAE-48AF-9A2B-31909CB9515D" 
+        codebase="https://site.cmbchina.com/download/CMBEdit.cab#version=1,2,0,1" 
+        width="160px" height="20px">
+</object>
+}}}
+
+
 = 配置过程 =
 {{{
 

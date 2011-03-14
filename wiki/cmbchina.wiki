@@ -30,6 +30,7 @@
 
 
 = 控件列表 =
+([getObject 如何获取控件?]) 
  
   * === NetBankUser_Ctrl ===
 

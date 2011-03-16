@@ -155,6 +155,7 @@ alt="Refresh verification code"/>
 
   状态: 排查中
   http://bugs.winehq.org/show_bug.cgi?id=26392
+
   * === 无法使用u盾 ===
   http://bugs.winehq.org/show_bug.cgi?id=25820
 
@@ -162,7 +163,10 @@ alt="Refresh verification code"/>
 
   Workround: 暂无
 
+  * == 加载控件时调用不存在的函数 msvcrt.dll.snwprintf_s 引起崩溃
+  http://code.google.com/p/winetricks/issues/detail?id=9
 
+  状态: 未修复
 
 
 = 投诉渠道 =

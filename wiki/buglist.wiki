@@ -10,11 +10,9 @@
 || [http://bugs.winehq.org/show_bug.cgi?id=26028 26028] || UNCONFIRMED ||	Buitin IE crash while open a activex control from Bank of Communications || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26027 26027] || UNCONFIRMED ||	ActiveX control of cmbchina online bank has no display || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26026 26026] || UNCONFIRMED ||	Installation of ICBC online bank Active Control needs scarddlg.dll ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=26000 26000] || NEW ||  Builtin IE cannot display ActiveX Controls from ICBC online bank (fixed in gecko) ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=26000 26000] || FIXED ||  Builtin IE cannot display ActiveX Controls from ICBC online bank (fixed in gecko) ||
 || [http://bugs.winehq.org/show_bug.cgi?id=25999 25999] || UNCONFIRMED ||	wine builtin IE crash while opening zero byte file (such as https://mybank.icbc.com.cn/indexicbc.htm ) || 
 || [http://bugs.winehq.org/show_bug.cgi?id=25964 25964] || FIXED ||	wine builtin IE crash with CNCBSecPkg_EN.exe installed : unimplemented function ntoskrnl.exe.IoGetDeviceInterfaces || 
 || [http://bugs.winehq.org/show_bug.cgi?id=25820 25820] || UNCONFIRMED ||	Token Administration Utility for ICBC online banking failed to list USB devices (without wine unofficial USB patches) ||  
 || [http://bugs.winehq.org/show_bug.cgi?id=25784 25784] || FIXED ||  	Crash while installing safesign_icbc_per.exe ( Driver for G&D USB-Shield) ||
-
-
 

@@ -163,7 +163,7 @@ alt="Refresh verification code"/>
 
   Workround: 暂无
 
-  * == 加载控件时调用不存在的函数 msvcrt.dll.snwprintf_s 引起崩溃
+  * === 加载控件时调用不存在的函数 msvcrt.dll.snwprintf_s 引起崩溃 ===
   http://code.google.com/p/winetricks/issues/detail?id=9
 
   状态: 未修复

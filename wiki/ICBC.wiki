@@ -119,7 +119,7 @@ $ regsvr32 AxSafeControls.dll
 
   Workround: [http://code.google.com/p/online-banking-with-wine/downloads/detail?name=mshtml.dll.so&can=2&q=#makechanges 下载mshtml.dll.so]
   * === Wine buitin IE 打开工行登录页面会崩溃 ===
-  与上一个bug不同,这个暂时原因不明,尚在排查当中
+  ~~与上一个bug不同,这个暂时原因不明,尚在排查当中~~
 
   状态: 已修复
     

@@ -3,7 +3,7 @@
 
 = 摘要 =
 == 个人网上银行 ==
-  *  登录入口: 
+  *  登录入口: https://ebank.srcb.com:446/pweb/pbperbank
   *  在Wine Microsoft IE6 下 
   *  在Wine builtin IE 下 
 
@@ -27,7 +27,10 @@
 = 控件列表 = 
 ([getObject 如何获取控件?]) 
   * === 密码输入框:powerpass ===
-  URL: https://
+  URL: https://ebank.srcb.com:446/pweb/ocx/shrcb/IBSToolSetup.exe
+  
+  URL:
+
 {{{
 <object id="powerpass" 
         codebase="ocx/SRCBPwdEnter_V1.CAB#version=1,0,0,53" 
@@ -65,8 +68,8 @@
 }}}
 = BUG 列表 =
 
-  * === [bug] ===
-  http://bugs.winehq.org/show_bug.cgi?id=[]
+  * === Wine buitin IE 无法打开 https://ebank.srcb.com:446/pweb/pbperbank  ===
+  http://bugs.winehq.org/show_bug.cgi?id=26467
 
   状态: 未修复
 
@@ -112,6 +115,11 @@
 
   *  电话服务
 
+  24小时客服热线
+
+  021-962999 
+
+  40069629999
 
 
   *  短信客服

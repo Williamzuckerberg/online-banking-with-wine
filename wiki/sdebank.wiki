@@ -7,13 +7,11 @@
 
 
 
-
-
 #顺德农商银行
 
 = 摘要 =
 == 个人网上银行 ==
-  *  登录入口: 
+  *  注册版登录入口: https://bas.sdebank.com/pweb/prelogin.do?LoginType=R&_locale=zh_CN&BankId=9999&BranchSeq=1  
   *  在Wine Microsoft IE6 下 
   *  在Wine builtin IE 下 
 

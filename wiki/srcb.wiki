@@ -4,9 +4,10 @@
 = 摘要 =
 == 个人网上银行 ==
   *  登录入口: https://ebank.srcb.com:446/pweb/pbperbank
-  *  在Wine Microsoft IE6 下 
-  *  在Wine builtin IE 下 
-
+  *  在Wine Microsoft IE6 下 : 控件可以显示,不能登录(总是提示密码必须为六位)
+  *  在Wine builtin IE 下 : 控件可以显示 
+  *  没有帐号,暂不能进一步测试
+ 
 == 个人网上银行贵宾版 ==
   *  登录入口： 
   *  在Wine Microsoft IE6 下 
@@ -64,6 +65,7 @@
 }}}
 = 配置过程 =
 {{{
+winetricks -q mfc42
 
 }}}
 = BUG 列表 =

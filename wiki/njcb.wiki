@@ -82,7 +82,7 @@
 
   Workround: 暂无
 
-  * === [bug] ===
+  * === 载入safeCommit和safeInput都会崩溃 ===
   http://bugs.winehq.org/show_bug.cgi?id=[]
 
   状态: 未修复

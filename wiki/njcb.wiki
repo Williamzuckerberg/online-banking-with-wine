@@ -75,8 +75,8 @@
 }}}
 = BUG 列表 =
 
-  * === [bug] ===
-  http://bugs.winehq.org/show_bug.cgi?id=[]
+  * === 无法打开登录入口 ===
+  http://bugs.winehq.org/show_bug.cgi?id=26476
 
   状态: 未修复
 

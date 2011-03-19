@@ -3,7 +3,7 @@
 
 = 摘要 =
 == 个人网上银行 ==
-  *  登录入口: 
+  *  登录入口: https://ebank.bankofbeijing.com.cn/bccbpb/accountLogon.jsp
   *  在Wine Microsoft IE6 下 
   *  在Wine builtin IE 下 
 
@@ -28,7 +28,7 @@
 ([getObject 如何获取控件?]) 
 
   * === 帐号输入框:logonid_temp ===
-  URL: https://
+  URL: https://ebank.bankofbeijing.com.cn/bccbpb/InPutCtrl.CAB#version=1,3,0,1
 
 {{{
 <object
@@ -40,7 +40,7 @@
 }}}
  
   * === 密码输入框:password_temp ===
-  URL: https://
+  URL: https://ebank.bankofbeijing.com.cn/bccbpb/InPutCtrl.CAB#version=1,3,0,1
 
 {{{
 <object

@@ -29,7 +29,7 @@
 
 
   * === safeCommit ===
-  URL: https://
+  URL: https://ebank.njcb.com.cn:8001/perbank/ocx/safe.cab#version=2,0,0,0
 {{{
 <object 
         classid="CLSID:A3CD7F74-93C9-4BC4-B892-CCDF1514F714" 
@@ -41,7 +41,7 @@
 }}}
  
   * === doit ===
-  URL: https://
+  URL: https://ebank.njcb.com.cn:8001/perbank/ocx/SignX.cab
 {{{
 <object 
         classid="CLSID:7AA0F60A-7F84-4233-9B84-15E0A9D6DCF1"         

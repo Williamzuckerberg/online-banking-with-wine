@@ -5,7 +5,7 @@
 == 个人网上银行 ==
   *  登录入口: https://pbank.psbc.com/pweb/prelogin.do?_locale=zh_CN&BankId=9999
   *  在Wine Microsoft IE6 下 
-  *  在Wine builtin IE 下 
+  *  在Wine builtin IE 下 :可以显示输入控件,暂无帐号可以测试
 
 == 个人网上银行贵宾版 ==
   *  登录入口： 

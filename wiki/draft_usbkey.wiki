@@ -1,1 +1,3 @@
-中国工商银行飞天二代U盾 ICBC_FT_UShield2_Install.exe 可能是最容易wine的,依赖的.sys驱动文件最少.
+_ 中国工商银行飞天二代U盾 ICBC_FT_UShield2_Install.exe 可能是最容易wine的,依赖的.sys驱动文件最少. _
+
+更新: 除了 SafeSign_ICBC_Per.exe , 其他几种u盾驱动都不需安装额外的.sys驱动文件

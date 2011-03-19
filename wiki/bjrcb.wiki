@@ -1,5 +1,6 @@
 #labels Featured
 #北京农村商业银行
+// 与光大银行类似,与sdebank类似
 
 = 摘要 =
 == 个人网上银行 ==
@@ -28,7 +29,7 @@
 ([getObject 如何获取控件?]) 
 
   * === iesign ===
-  URL: https://
+  URL: https://ebank.bjrcb.com/ent/js/iesign.ocx
 
 {{{
 <object 
@@ -41,7 +42,7 @@
 }}}
  
   * === powercommit ===
-  URL: https://
+  URL: https://ebank.bjrcb.com/ent/ocx/PowerEnter.CAB
 
 {{{
 <object
@@ -54,7 +55,7 @@
 }}}
 
   * === poweredit ===
-  URL: https://
+  URL: https://ebank.bjrcb.com/ent/ocx/PowerEnter.CAB
 
 {{{
 <object
@@ -67,7 +68,7 @@
 }}}
 
   * === powerpass ===
-  URL: https://
+  URL: https://ebank.bjrcb.com/ent/ocx/PowerEnter.CAB
 
 {{{
 <object

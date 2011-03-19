@@ -27,8 +27,10 @@
 = 控件列表 = 
 ([getObject 如何获取控件?]) 
 
+https://ebanks.gdb.com.cn/GDB_Online_Banking_Security_Controls.msi
+
   * === 密码输入框:[] ===
-  URL: https://
+  URL: https://ebanks.gdb.com.cn/GdbEdit.CAB#version=1,0,0,0
 
 {{{
 <object

@@ -1,0 +1,1 @@
+中国工商银行飞天二代U盾 ICBC_FT_UShield2_Install.exe 可能是最容易wine的,依赖的.sys驱动文件最少.

@@ -52,7 +52,7 @@
 }}}
 
   * === 密码输入框:safeInput ===
-  URL: https://
+  URL: https://ebank.njcb.com.cn:8001/perbank/ocx/safe.cab#version=2,0,0,0
 
 {{{
 <object 

@@ -5,8 +5,6 @@
 
 
 
-
-
 #顺德农商银行
 
 = 摘要 =
@@ -35,7 +33,7 @@
 = 控件列表 = 
 ([getObject 如何获取控件?]) 
   * === 密码输入框:powerpass ===
-  URL: https://
+  URL: https://bas.sdebank.com/pweb/ocx/sdnx/PowerEnter.CAB#version=1,0,0,57
 {{{
 <object 
         id="powerpass" 

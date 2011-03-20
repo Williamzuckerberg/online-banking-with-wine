@@ -19,3 +19,6 @@ ICBC_LCD_PerNet.exe
 }}}
 
 更新2: 待确认: u盾驱动怎么会完全没有 .sys 文件? 需要到windows下安装检验一下.
+
+PCSC-Lite
+http://pcsclite.alioth.debian.org/

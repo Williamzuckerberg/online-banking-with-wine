@@ -118,7 +118,7 @@ $ regsvr32 AxSafeControls.dll
   状态: 已经提交补丁,等待官方收录
 
   Workround: [http://code.google.com/p/online-banking-with-wine/downloads/detail?name=mshtml.dll.so&can=2&q=#makechanges 下载mshtml.dll.so]
-  * === Wine buitin IE 打开工行登录页面会崩溃 ===
+  * === ~~ Wine buitin IE 打开工行登录页面会崩溃 ~~ ===
   ~~与上一个bug不同,这个暂时原因不明,尚在排查当中~~
 
   状态: 已修复
@@ -129,7 +129,7 @@ $ regsvr32 AxSafeControls.dll
 
   http://bugs.winehq.org/show_bug.cgi?id=26391
 
-  * === 无法显示工行登录页面的控件, 原因是Wine buitin IE 不支持大写的CLSID ===
+  * === ~~ 无法显示工行登录页面的控件, 原因是Wine buitin IE 不支持大写的CLSID ~~ ===
   http://bugs.winehq.org/show_bug.cgi?id=26000
 
   状态: 将在下一版本的wine-gecko中修复

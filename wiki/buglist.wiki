@@ -5,16 +5,16 @@
 
 || Bug Number || Bug State || Bug Title || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26476 26476] || UNCONFIRMED || builtin IE cannot open  https://ebank.njcb.com.cn:8001/perbank/logon.jsp ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=26467 26467] || INVALID || Builtin IE cannot open https://ebank.srcb.com:446/pweb/pbperbank ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=26467 26467] || INVALID || ~~ Builtin IE cannot open https://ebank.srcb.com:446/pweb/pbperbank ~~ ||
 || [http://code.google.com/p/winetricks/issues/detail?id=9 winetricks 9] || NEW || crash by unimplemented function msvcrt.dll._snwprintf_s called after mfc42 installed ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26405 26405] || UNCONFIRMED || Builtin IE miss to display the origin page while open a pop-up page with window.open ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26392 26392] || UNCONFIRMED ||	Builtin IE won't display some jpeg images ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=26391 26391] || FIXED || Wine buitin IE crash while loading a page with more than THREE ActiveX objects || 
+|| [http://bugs.winehq.org/show_bug.cgi?id=26391 26391] || FIXED || ~~ Wine buitin IE crash while loading a page with more than THREE ActiveX objects ~~ || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26028 26028] || UNCONFIRMED ||	Buitin IE crash while open a activex control from Bank of Communications || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26027 26027] || UNCONFIRMED ||	ActiveX control of cmbchina online bank has no display || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26026 26026] || UNCONFIRMED ||	Installation of ICBC online bank Active Control needs scarddlg.dll ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=26000 26000] || FIXED ||  Builtin IE cannot display ActiveX Controls from ICBC online bank (fixed in gecko) ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=26000 26000] || FIXED ||  ~~ Builtin IE cannot display ActiveX Controls from ICBC online bank (fixed in gecko) ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=25999 25999] || UNCONFIRMED ||	wine builtin IE crash while opening zero byte file (such as https://mybank.icbc.com.cn/indexicbc.htm ) || 
-|| [http://bugs.winehq.org/show_bug.cgi?id=25964 25964] || FIXED ||	wine builtin IE crash with CNCBSecPkg_EN.exe installed : unimplemented function ntoskrnl.exe.IoGetDeviceInterfaces || 
+|| [http://bugs.winehq.org/show_bug.cgi?id=25964 25964] || FIXED ||	~~ wine builtin IE crash with CNCBSecPkg_EN.exe installed : unimplemented function ntoskrnl.exe.IoGetDeviceInterfaces ~~ || 
 || [http://bugs.winehq.org/show_bug.cgi?id=25820 25820] || UNCONFIRMED ||	Token Administration Utility for ICBC online banking failed to list USB devices (without wine unofficial USB patches) ||  
-|| [http://bugs.winehq.org/show_bug.cgi?id=25784 25784] || FIXED ||  	Crash while installing safesign_icbc_per.exe ( Driver for G&D USB-Shield) ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=25784 25784] || FIXED ||~~ Crash while installing safesign_icbc_per.exe ( Driver for G&D USB-Shield) ~~ ||

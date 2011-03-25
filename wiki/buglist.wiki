@@ -4,6 +4,8 @@
 = BUG列表 =
 
 || Bug Number || Bug State || Bug Title || 
+|| [http://bugs.winehq.org/show_bug.cgi?id=26546 26546] || UNCONFIRMED
+|| Buitin IE cannot run some methods of ActiveX controls from ICBC online bank || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26476 26476] || UNCONFIRMED || builtin IE cannot open  https://ebank.njcb.com.cn:8001/perbank/logon.jsp ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26467 26467] || INVALID || ~~ Builtin IE cannot open https://ebank.srcb.com:446/pweb/pbperbank ~~ ||
 || [http://code.google.com/p/winetricks/issues/detail?id=9 winetricks 9] || FIXED || ~~ `crash by unimplemented function msvcrt.dll._snwprintf_s called after mfc42 installed` ~~ ||

@@ -98,6 +98,7 @@ $ cp scarddlg.dll ~/.wine/drive_c/windows/system32
 }}}
   # 安装安全控件
 {{{
+$ wget --timestamping 'https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13'
 $ cabextract AxSafeControls.cab
 $ regsvr32 AxSafeControls.dll
 }}}

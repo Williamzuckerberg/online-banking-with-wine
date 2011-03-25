@@ -100,7 +100,7 @@ $ cp scarddlg.dll ~/.wine/drive_c/windows/system32
 {{{
 $ wget --timestamping 'https://mybank.icbc.com.cn/icbc/newperbank/AxSafeControls.cab#version=1,0,0,13'
 $ cabextract AxSafeControls.cab
-$ regsvr32 AxSafeControls.dll
+$ regsvr32 InputControl.dll SubmitControl.dll
 }}}
 = BUG 列表 =
 

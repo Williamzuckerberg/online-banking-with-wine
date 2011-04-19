@@ -22,3 +22,9 @@ ICBC_LCD_PerNet.exe
 
 PCSC-Lite
 http://pcsclite.alioth.debian.org/
+
+更新3: 
+winedump用法:
+{{{
+$ winedump dump -j import BHDCInstall_per.exe  
+}}}

@@ -53,7 +53,7 @@
 
   状态: 未修复
 
-  Workround: 暂无
+  Workround: 使用native alt.dll,可以解决崩溃的问题.
 
 = 投诉渠道 =
 

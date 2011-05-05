@@ -28,7 +28,7 @@
 ([getObject 如何获取控件?]) 
 
   * === powercommit ===
-  URL: https://
+  URL: https://www.cebbank.com/per/js/PowerEnter.CAB#version=1,0,0,72
 
 {{{
 <object
@@ -41,7 +41,7 @@
 }}}
  
   * === powerpassword ===
-  URL: https://
+  URL: https://www.cebbank.com/per/js/PowerEnter.CAB#version=1,0,0,72
 
 {{{
 <object

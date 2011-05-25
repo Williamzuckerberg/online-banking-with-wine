@@ -6,4 +6,6 @@ Today I found ActiveX for Chrome works on Wine Chrome.
 However, [http://bugs.winehq.org/show_bug.cgi?id=27248 Bug 27248] and [http://bugs.winehq.org/show_bug.cgi?id=21232 Bug 21232] should be fixed first.
 
 Bug 21232 - Chrome can't load any webpage unless --no-sandbox is used
+
+
 Bug 27248 - cannot unpack *.crx (extensions or themes) in Chrome 

@@ -5,6 +5,8 @@
 
 
 || Bug Number || Bug State || Bug Title ||
+
+|| [http://bugs.winehq.org/show_bug.cgi?id=27280 27280] || UNCONFIRMED	|| BHDCInstall_per can not install (unimplemented function cfgmgr32.dll.CM_Get_Device_ID_List_SizeA ) ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27271 27271] || UNCONFIRMED || ActiveX control of cebchina go out of iexplore ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27270 27270] || UNCONFIRMED || Unimplemented function ntoskrnl.exe.ObReferenceObjectByName called by Activex control of cebchina online bank ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26546 26546] || UNCONFIRMED || Buitin IE cannot run some methods of ActiveX controls from ICBC online bank || 

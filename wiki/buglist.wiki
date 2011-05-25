@@ -5,6 +5,7 @@
 
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=27109 27109] || UNCONFIRMED ||Creative Centrale needs msvcp60.dll.??0Init@ios_base@std@@QAE@XZ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27281 27281] || UNCONFIRMED ||crash while install ICBC_FT_UShield2_Install.exe ( unimplemented function msvcp60.dll.??0?$basic_ostringstream@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@H@Z )||
 || [http://bugs.winehq.org/show_bug.cgi?id=27280 27280] || UNCONFIRMED	|| BHDCInstall_per can not install (unimplemented function cfgmgr32.dll.CM_Get_Device_ID_List_SizeA ) ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27271 27271] || UNCONFIRMED || ActiveX control of cebchina go out of iexplore ||

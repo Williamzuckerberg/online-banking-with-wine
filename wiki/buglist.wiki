@@ -5,6 +5,7 @@
 
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=26978 26978] || UNCONFIRMED ||tokenadmin.exe crash : Unimplemented function winscard.dll.SCardListReadersA ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26832 26832] || UNCONFIRMED || Avatar demo needs msvcp80.dll.??0?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@H@Z ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27109 27109] || UNCONFIRMED ||Creative Centrale needs msvcp60.dll.??0Init@ios_base@std@@QAE@XZ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27281 27281] || UNCONFIRMED ||crash while install ICBC_FT_UShield2_Install.exe ( unimplemented function msvcp60.dll.??0?$basic_ostringstream@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@H@Z )||
@@ -24,5 +25,5 @@
 || [http://bugs.winehq.org/show_bug.cgi?id=26000 26000] || FIXED ||  ~~ Builtin IE cannot display ActiveX Controls from ICBC online bank (fixed in gecko) ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=25999 25999] || UNCONFIRMED ||	wine builtin IE crash while opening zero byte file (such as https://mybank.icbc.com.cn/indexicbc.htm ) || 
 || [http://bugs.winehq.org/show_bug.cgi?id=25964 25964] || FIXED ||	~~ wine builtin IE crash with CNCBSecPkg_EN.exe installed : unimplemented function ntoskrnl.exe.IoGetDeviceInterfaces ~~ || 
-|| [http://bugs.winehq.org/show_bug.cgi?id=25820 25820] || UNCONFIRMED ||	Token Administration Utility for ICBC online banking failed to list USB devices (without wine unofficial USB patches) ||  
+|| [http://bugs.winehq.org/show_bug.cgi?id=25820 25820] || ABANDONED ||	Token Administration Utility for ICBC online banking failed to list USB devices (without wine unofficial USB patches) ||  
 || [http://bugs.winehq.org/show_bug.cgi?id=25784 25784] || FIXED ||~~ Crash while installing safesign_icbc_per.exe ( Driver for G&D USB-Shield) ~~ ||

@@ -5,7 +5,6 @@
 
 
 || Bug Number || Bug State || Bug Title ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=27248 27248] || UNCONFIRMED || cannot unpack .crx (extensions or themes) in Chrome ||
 || [http://bugs.winehq.org/show_bug.cgi?id=21232 21232] || UNCONFIRMED || Chrome can't load any webpage unless --no-sandbox is used ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27248 27248] || UNCONFIRMED || cannot unpack .crx (extensions or themes) in Chrome ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27283 27283] || UNCONFIRMED ||can not start IBankWizard.msi installer ||

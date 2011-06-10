@@ -5,6 +5,7 @@
 
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=27442 27442] || UNCONFIRMED || wine iexplore won't display verify code image of ICBC ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27342 27342] || FIXED  || ~~ Iexplore can't open url regression ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=21232 21232] || UNCONFIRMED || Chrome can't load any webpage unless --no-sandbox is used ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27248 27248] || UNCONFIRMED || cannot unpack .crx (extensions or themes) in Chrome ||

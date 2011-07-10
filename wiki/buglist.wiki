@@ -4,7 +4,8 @@
 = BUG列表 =
 
 || Bug Number || Bug State || Bug Title ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=27754 27754] || UNCONFIRMED || PbSetup60.exe need unimplemented function ntoskrnl.exe.IoGetCurrentProcess || 
+|| [http://bugs.winehq.org/show_bug.cgi?id=13289 13289] || NEW || Multiple apps/games need ntoskrnl.exeIoGetCurrentProcess (Zeus maplestory, BASCOM AVR Demo) ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=27754 27754] || DUPLICATE || ~~ PbSetup60.exe need unimplemented function ntoskrnl.exe.IoGetCurrentProcess ~~ || 
 || [http://bugs.winehq.org/show_bug.cgi?id=27442 27442] || UNCONFIRMED || wine iexplore won't display verify code image of ICBC ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27342 27342] || FIXED  || ~~ Iexplore can't open url regression ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=21232 21232] || UNCONFIRMED || Chrome can't load any webpage unless --no-sandbox is used ||

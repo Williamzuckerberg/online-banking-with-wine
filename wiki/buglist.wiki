@@ -11,7 +11,7 @@
 || [http://bugs.winehq.org/show_bug.cgi?id=27342 27342] || FIXED  || ~~ Iexplore can't open url regression ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=21232 21232] || UNCONFIRMED || Chrome can't load any webpage unless --no-sandbox is used ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27248 27248] || UNCONFIRMED || cannot unpack .crx (extensions or themes) in Chrome ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=27283 27283] || UNCONFIRMED ||can not start IBankWizard.msi installer ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=27283 27283] || FIXED || ~~ can not start IBankWizard.msi installer ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27282 27282] || UNCONFIRMED ||wine cannot execute TDRABCSetup.exe ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26978 26978] || UNCONFIRMED ||tokenadmin.exe crash : Unimplemented function winscard.dll.SCardListReadersA ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26832 26832] || UNCONFIRMED || Avatar demo needs msvcp80.dll.??0?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@H@Z ||

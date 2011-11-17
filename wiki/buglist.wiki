@@ -9,8 +9,8 @@
 || [http://bugs.winehq.org/show_bug.cgi?id=27754 27754] || DUPLICATE || ~~ PbSetup60.exe need unimplemented function ntoskrnl.exe.IoGetCurrentProcess ~~ || 
 || [http://bugs.winehq.org/show_bug.cgi?id=27442 27442] || FIXED || ~~ wine iexplore won't display verify code image of ICBC ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27342 27342] || FIXED  || ~~ Iexplore can't open url regression ~~ ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=21232 21232] || UNCONFIRMED || Chrome can't load any webpage unless --no-sandbox is used ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=27248 27248] || UNCONFIRMED || cannot unpack .crx (extensions or themes) in Chrome ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=21232 21232] || NEW ||  Chrome can't load any webpage unless --no-sandbox is used  ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=27248 27248] || NEW || cannot unpack .crx (extensions or themes) in Chrome ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27283 27283] || FIXED || ~~ can not start IBankWizard.msi installer ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27282 27282] || UNCONFIRMED ||wine cannot execute TDRABCSetup.exe ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26978 26978] || UNCONFIRMED ||tokenadmin.exe crash : Unimplemented function winscard.dll.SCardListReadersA ||
@@ -20,7 +20,7 @@
 || [http://bugs.winehq.org/show_bug.cgi?id=27280 27280] || FIXED	|| ~~ BHDCInstall_per can not install (unimplemented function cfgmgr32.dll.CM_Get_Device_ID_List_SizeA ) ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27271 27271] || UNCONFIRMED || ActiveX control of cebchina go out of iexplore ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27270 27270] || FIXED ||  ~~ Unimplemented function ntoskrnl.exe.ObReferenceObjectByName called by Activex control of cebchina online bank ~~ ||
-|| [http://bugs.winehq.org/show_bug.cgi?id=26546 26546] || UNCONFIRMED || Buitin IE cannot run some methods of ActiveX controls from ICBC online bank || 
+|| [http://bugs.winehq.org/show_bug.cgi?id=26546 26546] || FIXED || ~~ Buitin IE cannot run some methods of ActiveX controls from ICBC online bank ~~ || 
 || [http://bugs.winehq.org/show_bug.cgi?id=26476 26476] || UNCONFIRMED || builtin IE cannot open  https://ebank.njcb.com.cn:8001/perbank/logon.jsp ||
 || [http://bugs.winehq.org/show_bug.cgi?id=26467 26467] || INVALID || ~~ Builtin IE cannot open https://ebank.srcb.com:446/pweb/pbperbank ~~ ||
 || [http://code.google.com/p/winetricks/issues/detail?id=9 winetricks 9] || FIXED || ~~ `crash by unimplemented function msvcrt.dll._snwprintf_s called after mfc42 installed` ~~ ||

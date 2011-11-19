@@ -4,6 +4,13 @@
 = BUG列表 =
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29123 29123] || UNCONFIRMED || iexplore: failed to login icbc onine bank ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29113 29113] || UNCONFIRMED || Builtin iexplore crashes clicking at https://mybank.icbc.com.cn/icbc/enperbank/index.jsp ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29112 29112] || UNCONFIRMED || Builtin IE only display a blank page when opening https://mybank.icbc.com.cn ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=28504 28504] || UNCONFIRMED || crash at the end of installing IBankWizard.msi ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29078 29078] || UNCONFIRMED || Runtime Error: Wine + Chromium + npactivex ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29074 29074] || FIXED || ~~ Google Chrome outer installer could not connect to the Internet ~~ ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29073 29073] || UNCONFIRMED  || iexplore: Add gui to trust a new certificate ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27109 27109] || NEW ||  Creative Centrale needs msvcp60.dll.??0Init@ios_base@std@@QAE@XZ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=13289 13289] || NEW || Multiple apps/games need ntoskrnl.exeIoGetCurrentProcess (Zeus maplestory, BASCOM AVR Demo) ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27754 27754] || DUPLICATE || ~~ PbSetup60.exe need unimplemented function ntoskrnl.exe.IoGetCurrentProcess ~~ || 

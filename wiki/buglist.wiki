@@ -4,6 +4,7 @@
 = BUG LIST =
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29148 29148] || UNCONFIRMED || ecitic bank HelpmateSetup? launcher endless loop while trying to start inner installers ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29222 29222] || INVALID || ~~ builtin IE crash at https://mybank.icbc.com.cn/icbc/perbank/index.jsp but doesn't crash at the English version website ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29123 29123] || UNCONFIRMED || iexplore: failed to login icbc onine bank ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29113 29113] || UNCONFIRMED || Builtin iexplore crashes clicking at https://mybank.icbc.com.cn/icbc/enperbank/index.jsp ||

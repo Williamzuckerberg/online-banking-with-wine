@@ -1,9 +1,10 @@
+#summary of all online-banking-related bugs.
 #labels Featured
-#当前所有bug汇总
 
-= BUG列表 =
+= BUG LIST =
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29222 29222] || INVALID || ~~ builtin IE crash at https://mybank.icbc.com.cn/icbc/perbank/index.jsp but doesn't crash at the English version website ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29123 29123] || UNCONFIRMED || iexplore: failed to login icbc onine bank ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29113 29113] || UNCONFIRMED || Builtin iexplore crashes clicking at https://mybank.icbc.com.cn/icbc/enperbank/index.jsp ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29112 29112] || FIXED || ~~ Builtin IE only display a blank page when opening https://mybank.icbc.com.cn ~~ ||

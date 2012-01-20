@@ -4,6 +4,7 @@
 = BUG LIST =
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29457 29457 ] || FIXED ||  ~~ PbSetup60.exe crash at unimplemented function ntoskrnl.exe.Ke386IoSetAccessProcess ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=17273 17273 ] ||  UNCONFIRMED || SetNamedPipeHandleState is a stub - affects flash on FireFox ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29252 29252] || UNCONFIRMED ||  ICBC Internet Banking Assistant ICBCEBankAssist.exe can't open embed iexplore ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29155 29155] || UNCONFIRMED || Builtin IE with ICBC bank input control crash while closing ||

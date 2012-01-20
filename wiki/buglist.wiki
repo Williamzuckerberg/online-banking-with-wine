@@ -4,6 +4,7 @@
 = BUG LIST =
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=29662 29662 ] || UNCONFIRMED || IBankWizard.msi crash at the end of installing ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29387 29387 ] || UNCONFIRMED ||  error while loading extensions in Chromium extension developer mode ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29240 29240 ] || New ||  Anti-aliasing not working for all fonts  ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29457 29457 ] || FIXED ||  ~~ PbSetup60.exe crash at unimplemented function ntoskrnl.exe.Ke386IoSetAccessProcess ~~ ||

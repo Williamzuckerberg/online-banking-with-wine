@@ -37,8 +37,20 @@ $ cd ~/.wine/drive_c/users/$USER/Local\ AppData/Google/Chrome/Application
 $ wine chrome.exe --no-sandbox
 }}}
 
-注意,加上 --no-sandbox 是对 [http://bugs.winehq.org/show_bug.cgi?id=21232 Bug 21232]的workaround 
+加上 --no-sandbox 参数是对 [http://bugs.winehq.org/show_bug.cgi?id=21232 Bug 21232]的workaround 
+
+=在Wine Google Chrome中安装插件的方法=
+
+加上 --no-sandbox --single-process 参数启动chrome.exe, 就可以从Chrome App Store正常安装扩展. 安装完成之后, 可以重启chrome.exe加上 --no-sandbox 参数正常使用Chrome的其他功能
+
+{{{
+$ cd ~/.wine/drive_c/users/$USER/Local\ AppData/Google/Chrome/Application
+$ wine chrome.exe --no-sandbox --single-process
+}}}
+
+加上 --single-process 参数是对 [http://bugs.winehq.org/show_bug.cgi?id=27248 Bug 27248]的workaround
 
 =Known bugs=
 
  * [http://bugs.winehq.org/show_bug.cgi?id=21232 Bug 21232] Chrome can't load any webpage unless --no-sandbox is used 
+ * [http://bugs.winehq.org/show_bug.cgi?id=27248 Bug 27248] cannot unpack *.crx (extensions or themes) in Chrome unless --single-process is used 

@@ -23,8 +23,8 @@ $ winetricks -q firefox
 
 4. 在firefox中打开 about:config
    设置 dom.ipc.plugins.enabled 为 false
-这一步是对 [http://bugs.winehq.org/show_bug.cgi?id=17273 `Bug 17273 - SetNamedPipeHandleState is a stub - affects flash on
-FireFox`] 的workaround.
+这一步是对 [http://bugs.winehq.org/show_bug.cgi?id=17273 Bug 17273 - SetNamedPipeHandleState is a stub - affects flash on
+FireFox] 的workaround.
 
 5. 打开 http://online.unionpay.com/static/help/detail_20.html#loc_137 , 根据提示安装插件
 

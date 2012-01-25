@@ -1,3 +1,4 @@
+#labels Featured
 #在Wine中安装和使用Google Chrome
 
 =准备工作=
@@ -67,3 +68,6 @@ $ wine chrome.exe --no-sandbox --single-process
  * [http://bugs.winehq.org/show_bug.cgi?id=21232 Bug 21232] Chrome can't load any webpage unless --no-sandbox is used 
  * [http://bugs.winehq.org/show_bug.cgi?id=27248 Bug 27248] cannot unpack `*`.crx (extensions or themes) in Chrome unless --single-process is used 
  * [http://bugs.winehq.org/show_bug.cgi?id=29240 Bug 29240] Anti-aliasing not working for all fonts
+
+转载请保留原始链接,本页面将随Wine更新而更新,欢迎补充和维护:
+http://code.google.com/p/online-banking-with-wine/wiki/WineChromeUsage

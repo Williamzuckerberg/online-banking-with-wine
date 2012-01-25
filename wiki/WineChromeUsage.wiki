@@ -35,6 +35,6 @@ $ wine ChromeStandaloneSetup.exe
 {{{
 $ cd ~/.wine/drive_c/users/$USER/Local\ AppData/Google/Chrome/Application
 $ wine chrome.exe --no-sandbox
-}}
+}}}
 
 注意,加上 --no-sandbox 是对 ||[http://bugs.winehq.org/show_bug.cgi?id=21232 Bug 21232]|| Chrome can't load any webpage unless --no-sandbox is used || 的workaround 

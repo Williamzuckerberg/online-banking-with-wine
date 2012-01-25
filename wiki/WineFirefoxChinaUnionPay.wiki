@@ -30,4 +30,5 @@ FireFox 的workaround.
 
 6. 重启 firefox, 就可以正常登陆中国银联了
 
-转载请保留原地址,此页面将随着Wine更新而更新
+转载请保留原始链接,此页面将随着Wine更新而更新
+http://code.google.com/p/online-banking-with-wine/wiki/WineFirefoxChinaUnionPay

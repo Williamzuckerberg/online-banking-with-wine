@@ -1,3 +1,4 @@
+#labels Featured
 =使用Wine Google Chrome 登陆中国银联=
 
 1. 参考 [WineChromeUsage], 在Wine中安装Google Chrome

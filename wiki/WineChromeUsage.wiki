@@ -1,0 +1,27 @@
+#在Wine中安装和使用Google Chrome
+
+=安装Google Chrome的两种方法=
+
+==方法一==
+
+ * 下载 ChromeSetup.exe
+
+https://www.google.com/chrome?platform=win&hl=en
+
+ * 安装 Google Chrome
+
+{{{
+$ wine ChromeSetup.exe
+}}}
+
+==方法二==
+
+ * 下载 ChromeStandaloneSetup.exe
+
+https://www.google.com/chrome/index.html?platform=win&hl=en&standalone=1
+
+ * 安装 Google Chrome
+
+{{{
+$ wine ChromeStandaloneSetup.exe
+}}}

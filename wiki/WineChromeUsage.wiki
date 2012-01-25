@@ -1,5 +1,5 @@
 #labels Featured
-#在Wine中安装和使用Google Chrome
+=在Wine中安装和使用Google Chrome=
 
 =准备工作=
 

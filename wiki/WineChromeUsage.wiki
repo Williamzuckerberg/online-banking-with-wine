@@ -43,9 +43,6 @@ $ wine chrome.exe --no-sandbox
 
 加上 --no-sandbox --single-process 参数启动chrome.exe, 就可以从Chrome App Store正常安装扩展. 安装完成之后, 可以重启chrome.exe加上 --no-sandbox 参数正常使用Chrome的其他功能
 
-=已知问题=
-
- * 小子号字体抗锯齿没有打开
 
 
 {{{
@@ -54,6 +51,16 @@ $ wine chrome.exe --no-sandbox --single-process
 }}}
 
 加上 --single-process 参数是对 [http://bugs.winehq.org/show_bug.cgi?id=27248 Bug 27248]的workaround
+
+
+=已知问题=
+
+ * 小子号字体抗锯齿没有打开: [http://bugs.winehq.org/show_bug.cgi?id=29240 Bug 29240]
+
+解决方法一: 反转这个补丁,重新编译Wine: http://source.winehq.org/git/wine.git/?a=commit;h=4ce3af3fad1dfacfe39a441054586707f848038f
+
+其他解决方法待添加,欢迎反馈.
+
 
 =Known bugs=
 

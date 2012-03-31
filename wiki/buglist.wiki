@@ -4,6 +4,7 @@
 = BUG LIST =
 
 || Bug Number || Bug State || Bug Title ||
+|| [http://bugs.winehq.org/show_bug.cgi?id=30288 30288] || FIXED || ~~ builtin iexplore crashes at loading https://mybank.icbc.com.cn/icbc/perbank/index.jsp ~~ ||
 || [http://bugs.winehq.org/show_bug.cgi?id=27168 27168] || UNCONFIRMED || chromium-based apps can't load https sites ||
 || [http://bugs.winehq.org/show_bug.cgi?id=10063 10063] || UNCONFIRMED ||  wineconsole run fail on korean locale. ||
 || [http://bugs.winehq.org/show_bug.cgi?id=29662 29662] || UNCONFIRMED || IBankWizard.msi crash at the end of installing ||

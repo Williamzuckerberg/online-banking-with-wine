@@ -1,6 +1,11 @@
 #summary of all online-banking-related bugs.
 #labels Featured
 
+
+欢迎加入网银讨论组[http://groups.google.com/group/non-ie-online-banking openbanks-discuss],讨论网银相关的技术问题: http://groups.google.com/group/non-ie-online-banking
+
+ 
+
 = BUG LIST =
 
 || Bug Number || Bug State || Bug Title ||

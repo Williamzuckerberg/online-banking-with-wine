@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://online-banking-with-wine.googlecode.com/files/test2.xml" height="200" border="0" /&gt;

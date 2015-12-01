@@ -1,0 +1,128 @@
+# 徽商银行
+
+# 摘要 #
+## 个人网上银行 ##
+  * 登录入口: https://www.hsbank.cc:8443/per/prelogin.do?_locale=zh_CN
+  * 在Wine Microsoft IE6 下
+  * 在Wine builtin IE 下
+
+## 个人网上银行贵宾版 ##
+  * 登录入口：
+  * 在Wine Microsoft IE6 下
+  * 在Wine builtin IE 下
+
+## 企业网上银行普及版 ##
+  * 登录入口：
+  * **不建议使用任何未经工行官方测试的浏览器和操作系统**
+  * **Linux和Mac系统比Windows更安全，更适合企业应用，[网银]不支持Linux和Mac,若有需要请向 [网银] [投诉或建议] 。**
+
+## 企业网上银行 ##
+  * 登录入口：
+  * **不建议使用任何未经工行官方测试的浏览器和操作系统**
+  * **Linux和Mac系统比Windows更安全，更适合企业应用，[网银]不支持Linux和Mac,若有需要请向 [网银] [投诉或建议] 。**
+
+
+
+# 控件列表 #
+([如何获取控件?](getObject.md))
+
+  * ### iesign ###
+> URL: https://
+
+```
+<object
+	 id="iesign"
+	 name="iesign"
+	 classid="clsid:f3e92562-1b4d-4bfa-b2d4-e9bcabe3b5ae" border="0"
+	 codebase="js/iesign.ocx#version=1.0.0.25">
+</object>
+```
+
+  * ### powercommit ###
+> URL: https://
+
+```
+<object
+	 id="powercommit"
+	 codebase="js/PowerEnter.CAB#version=1,0,0,23"
+	 classid="clsid:82DF14DA-B4B9-4dea-845B-1CEC8730E0D3"
+	 width="0" height="0"
+	 style="width:0px;height:0px">
+</object>
+```
+
+  * ### powerpass ###
+> URL: https://
+
+```
+<object
+	 id="powerpass"
+	 codebase="js/PowerEnter.CAB#version=1,0,0,23"
+	 classid="clsid:6A0FE760-35C2-41cc-A69E-62D565179295"
+	 width="190" height="18"
+	 style="width:190px;height:18px">
+</object>
+```
+
+  * ### [?] ###
+> URL: https://
+
+```
+
+```
+# 配置过程 #
+```
+
+```
+# BUG 列表 #
+
+  * ### [bug](bug.md) ###
+> http://bugs.winehq.org/show_bug.cgi?id=[]
+
+> 状态: 未修复
+
+> Workround: 暂无
+
+  * ### [bug](bug.md) ###
+> http://bugs.winehq.org/show_bug.cgi?id=[]
+
+> 状态: 未修复
+
+> Workround: 暂无
+
+  * ### [bug](bug.md) ###
+> http://bugs.winehq.org/show_bug.cgi?id=[]
+
+> 状态: 未修复
+
+> Workround: 暂无
+
+  * ### [bug](bug.md) ###
+> http://bugs.winehq.org/show_bug.cgi?id=[]
+
+> 状态: 未修复
+
+> Workround: 暂无
+
+  * ### [bug](bug.md) ###
+> http://bugs.winehq.org/show_bug.cgi?id=[]
+
+> 状态: 未修复
+
+> Workround: 暂无
+
+# 投诉渠道 #
+
+**任何第三方测试结果都无法保证绝对可靠，也无法对任何意外负责，建议每一个需要在Linux或Mac平台上使用网银的用户,如果有条件可以选择,请尽量用脚投票,选择上海浦发银行等支持跨平台的网银,可以参考[网上银行兼容性列表](http://goo.gl/Itab7)选择适合自己的银行;若无法选择,请不要放弃向银行投诉，争取银行的官方支持。**
+
+
+  * 在线投诉
+> [url](url.md)
+
+> [url](url.md)
+
+  * 电话服务
+
+
+
+  * 短信客服
